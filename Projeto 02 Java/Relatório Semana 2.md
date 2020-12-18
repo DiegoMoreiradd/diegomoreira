@@ -1,0 +1,9 @@
+a. Fiz um código interativo de um carro, onde há espaço para duas pessoas, feito o embarque e desembarque de 1 pessoa por vez, se o carro está lotado, exibe uma mensagem de lotação, se o carro está vazio, exibe uma mensagem de erro, há a opção de abastecer onde a capacidade máxima do tanque é de 100 litros, se excecer, o excesso é descartado e o tanque permanece cheio, há a opção de dirigir, onde é necessário que haja pelo menos 1 pessoa dentro do carro e 1 litro de gasolina para andar, se não, exibe-se uma mensagem de erro, se a gasolina for insuficiente para percorrer todo o caminho, o carro para no meio do trajeto e exibe-se uma mensagem informando a distância percorrida pelo carro.
+
+b. Inicialmente fiz sozinho a parte lógica, estava correto, porém não conseguia fazer a parte interativa, então pedi ajuda para um amigo de outro curso da UFC, onde consegui fazer a parte interativa e finalizar meu código.
+
+c. Primeiramente comecei a fazer a parte lógica com base na aula gravada, foi tranquilo, estava funcionando o void de entrada e saída, mas quando fui começar o void que precisava da parte interativa, de abastecer no caso, foi que começou a dar errado, fiquei travado aí por umas 2 semanas sem sair do lugar, e mesmo pedindo ajuda no discord, eu não entendia, revi as aulas gravadas várias vezes e nada, até que falei com meu amigo e ele fez uma ligação comigo me explicando do começo ao fim, foi aí que minha mente se abriu e agora estou 50% mais confiante.
+
+d. Aprendi a parte interativa do código, sobre o assunto, ainda possuo algumas dificuldades na sintaxe do código, não sei fazer nada do zero, sempre tenho que ter uma base.
+
+e. Umas 2 semanas.
